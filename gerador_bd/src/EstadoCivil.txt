@@ -1,0 +1,4 @@
+idEstadoCivil;int;10;Estado civil (ID)
+nomeEstadoCivil;String;0;Estado civil
+nomeEstadoCivil2;String;0;Estado civil
+nomeEstadoCivil3;String;0;Estado civil

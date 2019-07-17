@@ -1,0 +1,6 @@
+id;long;10;ID
+nome;String;0;Nome
+dataDeNascimento;Date;Data de nascimento
+idEstadoCivil;Dependente;Estado civil (ID);C:\\Users\\alcid\\Desktop\\NetBeansProjects\\geradorDeCodigo1\\dadosEstadoCivil.txt 
+altura;double;0;Altura
+status;boolean;JCheckBox;Verdadeiro;Falso;Status
