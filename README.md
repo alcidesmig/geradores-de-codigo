@@ -4,5 +4,5 @@ Repositório utilizado para disponibilizar aos alunos do Técnico Integrado em I
 Disciplinas ministradas por: Radames Halmeman (sol.pro.br/radames).
 
 ## To do
-- Limpar o código, que foi feito as pressas e sem intenção de ser legível para estranhos uma vez que não era uma das intenções divulgar o mesmo.
+- Limpar o código, que foi feito as pressas e sem intenção de ser legível para estranhos, uma vez que não era uma das intenções o divulgar.
 - Tutoriais para utilização.
